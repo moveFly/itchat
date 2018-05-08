@@ -1,5 +1,5 @@
 # python获取微信好友的基本信息，并分析性别，城市和个性签名
-#1.需要的安装包#
+## 1.需要的安装包  
 itchat:登陆微信，pip install itchat  
 matplotlib:绘制柱状图  
 jieba:结巴分词  
